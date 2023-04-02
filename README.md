@@ -65,9 +65,3 @@ CRÉDITO
 -------
 
 O trecho de código a partir da linha 184 é uma versão modificada do código escrito por Peng Cao: https://medium.com/@caopengau
-
--------------------
-VÍDEO DEMONSTRATIVO
--------------------
-
-https://user-images.githubusercontent.com/129640691/229356967-84ac639d-c9b9-4101-83f8-3ea0ca55bb3f.mp4
